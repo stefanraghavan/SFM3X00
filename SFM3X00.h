@@ -18,8 +18,8 @@
 #ifndef SFM3X00_H
 #define SFM3X00_H
 
-#include <Arduino.h>
-#include <Wire.h>
+#include <AP_Scripting/ArduinoCore-avr/cores/arduino/Arduino.h>
+#include <AP_Scripting/ArduinoCore-avr/libraries/Wire/src/Wire.h>
 
 
 // max and min for SFM3400
